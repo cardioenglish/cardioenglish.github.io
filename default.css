@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-body {margin:0 auto;font-family:Verdana, Geneva, sans-serif;font-size:12px;line-height:19px;color:#333;/*background-color:#224166;background-image:url(img/bg.jpg);background-position:center top;background-repeat:no-repeat*/}
+body {margin:0 auto;font-family:Verdana, Geneva, sans-serif;font-size:12px;line-height:19px;color:#333;/*background-color:#224166;background-image:url(/bg.jpg);background-position:center top;background-repeat:no-repeat*/}
 
 p {margin:0 0 8px 0; padding:0}
 .highlight {color:#AE2B2B}
@@ -9,7 +9,7 @@ img, div { behavior: url(iepngfix.htc) }
 img.borderimg { border:1px solid #ccc; padding:5px;;background-color:#fff}
 .img_right {margin-bottom:40px}
 
-ul{list-style-image:url(img/bullet.gif)}
+ul{list-style-image:url(/bullet.gif)}
 li{margin-bottom:10px;font-size:0.9em;line-height:1.5em}
 
 h1 {margin:5px 0 5px 0;font-family:"Times New Roman", Times, serif;font-size:35px;line-height:16px;color:#BF3333}
@@ -17,7 +17,7 @@ h2 {margin:0 0 15px 0;font-family:"Times New Roman", Times, serif;font-size:18px
 h3{margin:20px 0 15px 0;font-family:"Times New Roman";font-size:17px;line-height:22px; letter-spacing:0.1em;color:#BF3333;border-bottom:1px solid #ccc; width:100%}
 
 #wrapper{width}
-#container {margin:0 auto;padding:0;width:805px;background-image:url(img/bg_top2.jpg);background-position:center top;background-repeat:no-repeat}
+#container {margin:0 auto;padding:0;width:805px;background-image:url(/bg_top2.jpg);background-position:center top;background-repeat:no-repeat}
 #header_left {float:left;margin:0 0 20px 0;padding:0;height:120px}
 #header_right {float:right;margin:40px 36px 20px 0 !important;margin:40px 20px 20px 0;padding:0;color:#fff}
 #col_left {float:left;padding-left:40px;width:420px;text-align:left;margin-bottom:40px}
@@ -26,7 +26,7 @@ h3{margin:20px 0 15px 0;font-family:"Times New Roman";font-size:17px;line-height
 
 #col_right_footer{float:right;width:233px;min-height:600px;height:auto !important;height:500px;padding:0 36px 0 36px}
 
-#slogan{margin:0 0 20px -30px;background-image:url(img/slogan_bg.png);background-repeat:no-repeat;background-position:top left}
+#slogan{margin:0 0 20px -30px;background-image:url(/slogan_bg.png);background-repeat:no-repeat;background-position:top left}
 
 #content{width:805px;background-color:#fff;
   min-height:500px;
@@ -56,7 +56,7 @@ div#menu{padding-top:10px; margin-left:-20px !important; margin-left:20px}
 
 li#portfolio,ul#portfolio{list-style:none;margin:0 30px 0 30px;padding:0}
 
-p.highlight{padding-left:25px;background-image:url(img/paragraph.png);background-position:center left; background-repeat:no-repeat}
+p.highlight{padding-left:25px;background-image:url(/paragraph.png);background-position:center left; background-repeat:no-repeat}
 
 #col_right ul{ padding-left:15px;margin:0}
 
